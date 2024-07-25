@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharmesh-Shimpi
-- 👀 I’m a full-stack engineer from Pune, MH
+- 👀 I’m a full-stack engineer from Pune, India
 - 🌱 I’m currently working with NextJS, ReactJS, PostreSQL, Prisma ORM, Node.js
 - 💞️ I’m looking to collaborate on NextJs, NodeJS projects
 - 📫 How to reach me - dharmesh.shimpi@gmail.com
